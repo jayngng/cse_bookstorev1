@@ -24,4 +24,4 @@ optional arguments:
 ```
 #### 3. Example
 
-![](Example.gif)
+![](example.gif)
